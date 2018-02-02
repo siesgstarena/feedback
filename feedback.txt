@@ -2,7 +2,7 @@ Did you attend our 01-Feb session on git and GitHub?
 Please leave us your valuable feed back by sending a PR to this repo after appending your thoughts below.
 
 Name - Class - Feedback
-Rutuja k patil - 115a1075 - The session was really informative.
+Rutuja k patil - TE-CE-D - The session was really informative.
 
 
 Thanks, 
